@@ -16,7 +16,7 @@ module.exports.config = {
 module.exports.languages = {
 	"vi": {
 		"moduleInfo": "「 %1 」\n%2\n\n❯ Cách sử dụng: %3\n❯ Thuộc nhóm: %4\n❯ Thời gian chờ: %5 giây(s)\n❯ Quyền hạn: %6\n\n» Module code by %7 «",
-		"helpList": '[ Hiện tại đang có %1 lệnh có thể sử dụng trên bot này, Sử dụng: "%2help nameCommand" để xem chi tiết cách sử dụng! ]"',
+		"helpList": '[ Hiện tại đang có %1 lệnh có thể sử dụng trên bot này, Sử dụng: "%2help nameCommand" để xem chi tiết cách sử dụng! | Hiện tại đang có ${commands.size} lệnh có thể sử dụng trên bot này.\nBot được điều hành bởi Dương Vũ Chiến. \nMọi thắc mắc liên hệ Admin Bot \nFb : https://www.facebook.com/Mochi.0110dvc \nZalo : 0965966253 \nChúc bạn sử dụng bot vui vẻ ♥ 📣Help sẽ tự động gỡ sau 60s]"',
 		"user": "Người dùng",
         "adminGroup": "Quản trị viên nhóm",
         "adminBot": "Quản trị viên bot"
