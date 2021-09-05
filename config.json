@@ -66,6 +66,9 @@
     "weather": {
         "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
     },
+     "sim": {
+        "APIKEY": "TEST2208"
+    },
     "work": {
         "cooldownTime": 1200000
     },
